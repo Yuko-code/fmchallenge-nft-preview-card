@@ -1,5 +1,5 @@
 # Frontend Mentor - NFT preview card component solution
-
+<img src="https://github.com/Yuko-code/Yuko-code/blob/main/nft-card.png" width="900">
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [how to sytle <hr>](https://www.w3schools.com/howto/howto_css_style_hr.asp) - This helped me for to style horizonal line.
+- [how to sytle hr](https://www.w3schools.com/howto/howto_css_style_hr.asp) - This helped me for to style horizonal line.
 - [hsla()](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsla()) - This helped me to style back-ground color with opacity.
 
 ## Author
